@@ -2,15 +2,19 @@
   "version": "1.0",
   "approved_fonts": [
     "Amiri",
+    "Arial",
     "Harmattan",
     "IBM Plex Sans Arabic",
+    "Katibeh",
     "Lateef",
     "Mada",
+    "Mirza",
     "Noto Kufi Arabic",
     "Noto Naskh Arabic",
     "Noto Sans Arabic",
+    "Reem Kufi Fun",
     "Reem Kufi Ink",
     "Scheherazade New",
-    "Tajawal"
+    "Vazirmatn"
   ]
 }
